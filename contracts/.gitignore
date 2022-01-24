@@ -1,0 +1,17 @@
+node_modules
+cache
+artifacts
+.env
+abi/
+.openzeppelin/
+.vscode/
+devstate/
+types/*
+dev/
+*.log
+dist/
+hardhat.config.js
+package-lock.json
+.cache
+.DS_Store
+.DS_Store*
